@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  latjkmp:
+  - apiVersion: v1
+    appVersion: "7"
+    created: "2019-08-28T07:11:18.960229684Z"
+    description: Modular and transparent LAMP stack chart supporting PHP-FPM, Release
+      Cloning, LoadBalancer, Ingress, SSL and lots more!
+    digest: 8b00e56ecf45f0cde27b57802f919e2afe2fac80640ead2a251959db2e4c116b
+    home: https://github.com/lead4good/helm-lamp-stack
+    maintainers:
+    - name: lead4good
+    name: latjkmp
+    urls:
+    - latjkmp-1.1.0.tgz
+    version: 1.1.0
+generated: "2019-08-28T07:11:18.957609007Z"
